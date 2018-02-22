@@ -1,1 +1,1 @@
-# Poverty-and-Inequility
+# Poverty-and-Inequity
