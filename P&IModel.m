@@ -1,6 +1,7 @@
 clear all
 %created by:shahrear
 %student.eco86@gmail.com
+% © Md. Shahrear Zaman
 % A Hypothetical country and Society
 % simulation: Example-1
 %The number of people : Upper class = NumU , Middle class = NumM,
